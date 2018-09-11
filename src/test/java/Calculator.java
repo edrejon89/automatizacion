@@ -1,3 +1,4 @@
+import org.junit.Test;
 import org.openqa.selenium.winium.DesktopOptions;
 import  org.openqa.selenium.By;
 import org.openqa.selenium.winium.WiniumDriver;
@@ -6,6 +7,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class Calculator {
+    @Test
     public static void main (String[] args) throws MalformedURLException, InterruptedException {
         DesktopOptions option = new DesktopOptions();
         option.setApplicationPath("C:\\Windows\\system32\\calc.exe");
