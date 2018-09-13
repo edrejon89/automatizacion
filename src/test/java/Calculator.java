@@ -15,6 +15,6 @@ public class Calculator {
         driver.findElement(By.id("93")).click();
         driver.findElement(By.name("8")).click();
         driver.findElement(By.id("121")).click();
-        driver.close();
+        driver.quit();
     }
 }
