@@ -47,6 +47,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -70,8 +71,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
               <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+=======
+      <file leaf-file-name="AppiumStudio.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AppiumStudio.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2806#2807#0" expanded="true" />
+                <element signature="e#2835#2836#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,12 +96,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pruebasAutomation" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Calculator.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/test/java/Sincronizador.java" />
+=======
+        <option value="$PROJECT_DIR$/src/test/java/AppiumStudio.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
       </list>
     </option>
   </component>
@@ -108,12 +125,17 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,8 +144,18 @@
               <item name="automatizacion" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="automatizacion" type="b2602c69:ProjectViewProjectNode" />
               <item name="automatizacion" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="PruebasAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PruebasAutomation" type="462c0819:PsiDirectoryNode" />
+              <item name="pruebasAutomation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PruebasAutomation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PruebasAutomation" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -143,17 +175,27 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536895626999" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+=======
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,7 +209,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Sincronizador">
+=======
+  <component name="RunManager" selected="JUnit.AppiumStudio.testUntitled">
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="PruebasAutomation" />
@@ -190,6 +236,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppiumStudio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PruebasAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppiumStudio" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AppiumStudio.testUntitled" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PruebasAutomation" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AppiumStudio" />
+      <option name="METHOD_NAME" value="testUntitled" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -206,11 +286,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.Calculator" />
+<<<<<<< HEAD
       <item itemvalue="Application.Sincronizador" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Sincronizador" />
+=======
+      <item itemvalue="JUnit.AppiumStudio" />
+      <item itemvalue="JUnit.AppiumStudio.testUntitled" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppiumStudio.testUntitled" />
+        <item itemvalue="JUnit.AppiumStudio" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
         <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
@@ -229,7 +319,22 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="AppiumStudio_testUntitled - 2018.09.11 at 17h 03m 03s.xml">
+      <configuration name="AppiumStudio.testUntitled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppiumStudio_testUntitled - 2018.09.11 at 17h 14m 17s.xml">
+      <configuration name="AppiumStudio.testUntitled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppiumStudio_testUntitled - 2018.09.11 at 17h 20m 23s.xml">
+      <configuration name="AppiumStudio.testUntitled" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppiumStudio_testUntitled - 2018.09.11 at 17h 20m 39s.xml">
+      <configuration name="AppiumStudio.testUntitled" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28163266" />
@@ -245,6 +350,33 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32784185" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.18078668" side_tool="true" weight="0.33772653" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.81921333" weight="0.31795716" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49853587" weight="0.35914332" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49758455" visible="true" weight="0.25718608" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5024155" side_tool="true" weight="0.25718608" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49926794" visible="true" weight="0.3970346" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -252,6 +384,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -259,6 +392,11 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+=======
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -281,10 +419,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Sincronizador.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="115">
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+=======
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppiumStudio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2806#2807#0" expanded="true" />
+            <element signature="e#2835#2836#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -346,6 +529,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+<<<<<<< HEAD
                 <option value="0.6" />
               </list>
             </option>
@@ -359,6 +543,8 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+=======
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
               </list>
             </option>
           </splitter-proportions>

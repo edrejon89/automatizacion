@@ -55,5 +55,64 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-leg-rc:2.48.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+<<<<<<< HEAD
+=======
+    <orderEntry type="library" name="Maven: com.experitest:appium:4.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:aspectjweaver:1.8.9" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:boon:0.33" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:cglib-nodep:3.2.4" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-beanutils:1.9.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-digester:1.8.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-exec:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-lang3:3.4" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:commons-validator:1.5.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:cssparser:0.9.18" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:gson:2.7" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:guava:19.0" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:htmlunit:2.21" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:htmlunit-core-js:2.17" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:htmlunit-driver:2.21" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:httpclient:4.5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:httpcore:4.4.4" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:httpmime:4.5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:jetty-io:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:jetty-util:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:jna:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:jna-platform:4.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:neko-htmlunit:2.21" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:netty:3.5.7.Final" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:sac:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-api:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-chrome-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-edge-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-firefox-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-ie-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-java:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-leg-rc:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-remote-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-safari-driver:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:selenium-support:2.53.1" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:serializer:2.7.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:spring-aop:4.3.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:spring-beans:4.3.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:spring-context:4.3.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:spring-core:4.3.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:spring-expression:4.3.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:websocket-api:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:websocket-client:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:websocket-common:9.2.15.v20160210" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:ws-commons-util:1.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:xalan:2.7.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:xercesImpl:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:xml-apis:1.4.01" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:xmlrpc-client:3.1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.experitest:xmlrpc-common:3.1.2" level="project" />
+>>>>>>> 98a9c6e3c9214a709bb17f22009ecfc84481ccda
   </component>
 </module>
