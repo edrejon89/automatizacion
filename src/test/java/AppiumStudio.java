@@ -34,7 +34,8 @@ public class AppiumStudio {
     }
 
     @Test
-    public void testUntitled() {
+    public void testUntitled() throws InterruptedException {
+        Thread.sleep(8000);
         driver.findElement(By.xpath("(//[@text='Categorias']/[@class='UIAButton'])[1]")).click();
         driver.findElement(By.xpath("//*[@text='Ingresar']")).click();
         new WebDriverWait(driver, 10).until(ExpectedConditions.presenceOfElementLocated(By.xpath("//*[@placeholder=' correo@ejemplo.com']")));
